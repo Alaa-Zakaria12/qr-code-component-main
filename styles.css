@@ -4,7 +4,7 @@ body{
 }
 #main-container{
     position: absolute;
-    top: 30%;
+    top: 25%;
     left: 40%;
     background-color: hsl(0, 0%, 100%);
     border-radius: 15px;
